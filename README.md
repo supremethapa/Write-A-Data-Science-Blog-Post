@@ -32,7 +32,7 @@ There is also a notebook available here to showcsae all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+The main findings of the code can be found at the [post](https://medium.com/@basnetjunth/fifa-19-data-analysis-b546581c9b43) available
 
 
 
